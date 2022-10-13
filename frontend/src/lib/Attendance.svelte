@@ -3,7 +3,7 @@
 
     async function getAttendeesData() {
         let attendees = await fetch(
-            "https://raw.githubusercontent.com/AdityaMotale/GFG-github-workshop/main/attendance.json"
+            "https://raw.githubusercontent.com/shivanand0/gfg-github-workshop/main/attendance.json"
         );
         let data = await attendees.json();
 
@@ -54,7 +54,7 @@
                                 <a href={`${user.linkdin}`}>
                                     <img
                                         src={`${linkedin}`}
-                                        alt="Linkdin"
+                                        alt="Linkedin"
                                         height="20px"
                                         width="20px"
                                         class="mx-2"
