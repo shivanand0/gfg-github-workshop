@@ -1,8 +1,16 @@
 {
-    "attendance": [{
-        "name": "Shivanand Mitkar",
-        "class": "B.TECH CSE",
-        "linkdin": "https://www.linkedin.com/in/shivanand-mitkar/",
-        "instagram": "https://www.instagram.com/shivanand._.0/"
-    }]
+    "attendance": [
+        {
+            "name": "Shivanand Mitkar",
+            "class": "B.TECH CSE",
+            "linkdin": "https://www.linkedin.com/in/shivanand-mitkar/",
+            "instagram": "https://www.instagram.com/shivanand._.0/"
+        },
+        {
+            "name": "Sanket Salunke",
+            "class": "B.TECH CSE",
+            "linkdin": "https://www.linkedin.com/in/shivanand-mitkar/",
+            "instagram": null
+        }
+]
 }
