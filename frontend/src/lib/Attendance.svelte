@@ -51,7 +51,7 @@
                     <div class="flex flex-row justify-center mt-5">
                         <div>
                             {#if user.linkdin != null}
-                                <a href={`${user.linkdin}`}>
+                                <a href={`${user.linkdin}`} target="_blank">
                                     <img
                                         src={`${linkedin}`}
                                         alt="Linkedin"
@@ -64,7 +64,7 @@
                         </div>
                         <div>
                             {#if user.instagram != null}
-                                <a href={`${user.instagram}`}>
+                                <a href={`${user.instagram}`} target="_blank">
                                     <img
                                         src={`${instagram}`}
                                         alt="Instagram"
